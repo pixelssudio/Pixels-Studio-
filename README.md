@@ -14,7 +14,7 @@ const PankajKalosiya = {
   dataEntry: true
 };
 
-// Iska use karte hue skill check kar sakte hain
+// Aapke skills ko check karne ke liye:
 console.log("Photography skill available:", PankajKalosiya.photography);
-console.log("Video editing skill available:", PankajKalosiya.videoEditing);
-// Aur aapke aur bhi skill checks kar sakte hain
+console.log("Data recovery skill available:", PankajKalosiya.dataRecovery);
+// Aur bhi saare skills ko check kar sakte hain
