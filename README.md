@@ -1,23 +1,20 @@
-# Pixels-Studio-
-Dharma Karma Moksha
+const PankajKalosiya = {
+  photography: true,
+  videography: true,
+  dataRecovery: true,
+  photoRetouching: true,
+  photoEdit: true,
+  videoEditing: true,
+  postersDesign: true,
+  weddingInvitationCardDesign: true,
+  shareMarket: true,
+  pcLaptopSoftwareProblem: true,
+  videoPhotoSoftwareApplication: true,
+  onlineForms: true,
+  dataEntry: true
+};
 
-
-i am Pankaj kalosiya
-main Ek Teen age Banda hu par main kai sare field main Ruchi Rkhta hu or mene bhot sare alg alg kaam sikhe hain ho skta hain mera sikha hua kuch apke kaam aa ske 
-
-toh main  apko btata hu ki main konsa konsa kaam krta hu halnki sab kaam kain charge alg alg hain 
-
-photography 
-Videography
-Data Recovery all types
-Photo Retouching
-Photo Edit
-Video editing
-Posters Design 
-Wedding Invitation Card design
-Share market 
-Pc laptop Software Problem 
-Video photo all Software Application
-Online Forme 
-Data Entry 
-
+// Iska use karte hue skill check kar sakte hain
+console.log("Photography skill available:", PankajKalosiya.photography);
+console.log("Video editing skill available:", PankajKalosiya.videoEditing);
+// Aur aapke aur bhi skill checks kar sakte hain
