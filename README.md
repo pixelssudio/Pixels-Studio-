@@ -5,9 +5,8 @@
   <title>Introduction</title>
 </head>
 <body>
-  Style>
-  background : rgb (39 .39 .39. )
-  <h1>About Me - Pankaj Kalosiya</h1>
+  
+  <h1><Font colour=Red> About Me - Pankaj Kalosiya</h1>
   <p>
   "Welcome to Pankaj Kalosiya Photography & Data Recovery! With a passion for capturing life's moments and expertise in data recovery, we specialize in preserving memories through stunning photography and reliable data retrieval services. From professional photo editing to captivating video editing, we strive to bring your visions to life. Trust us to safeguard your precious memories and transform your projects into unforgettable creations."   :
   </p>
