@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<! Respect Kali Denal html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -7,7 +7,7 @@
 <body>
   <h1>About Me - Pankaj Kalosiya</h1>
   <p>
-    I am Pankaj Kalosiya,  Teen Age banda Main Apne Abhi Tak Mene Jo bhi Kaam Sikhe Hain Vo Sab Apke liye  Helpfull hain Toh Ek bar muje Moka Jarur De:
+  "Welcome to Pankaj Kalosiya Photography & Data Recovery! With a passion for capturing life's moments and expertise in data recovery, we specialize in preserving memories through stunning photography and reliable data retrieval services. From professional photo editing to captivating video editing, we strive to bring your visions to life. Trust us to safeguard your precious memories and transform your projects into unforgettable creations."   :
   </p>
   <ul>
     <li>Photography</li>
@@ -31,6 +31,6 @@
    
   
   Thank you so much 🙏😊.
-  </p>
+  </>
 </body>
-</html>Blue.colour
+</html>
