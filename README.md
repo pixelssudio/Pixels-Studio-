@@ -32,7 +32,7 @@
   <h1>Rps Colony Rawatbhata </h1>
    
   
-  <font colour=red>Thank you so much 🙏😊.
+  <font colourred>Thank you so much 🙏😊.
   </>
 </body>
 </html>
