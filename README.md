@@ -1,3 +1,23 @@
+style> 
+    body { 
+        background: rgb(39, 39, 39); 
+    } 
+  
+    h1 { 
+        position: absolute; 
+        top: 40%; 
+        left: 40%; 
+  
+        font-size: 40px; 
+        font-family: Arial,  
+            Helvetica, sans-serif; 
+        background: linear-gradient( 
+            to right, #f32170, #ff6b08, 
+             #cf23cf, #eedd44); 
+        -webkit-text-fill-color: transparent; 
+        -webkit-background-clip: text; 
+    } 
+</style>
 <! Respect Kali Denal html>
 <html lang="en">
 <head>
@@ -34,3 +54,8 @@
   </>
 </body>
 </html>
+
+
+
+
+ 
