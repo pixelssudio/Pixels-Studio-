@@ -24,8 +24,13 @@
     <li>Online Forms</li>
     <li>Data Entry</li>
   </ul>
-  <p>
-    Thank you so much 🙏😊.
+  <p>Connect Number #link</p>
+  <li>9659228281</li>
+  <li>instgram</li>
+  <li>WhatsApp </li>
+   
+  
+  Thank you so much 🙏😊.
   </p>
 </body>
-</html>
+</html>Blue.colour
