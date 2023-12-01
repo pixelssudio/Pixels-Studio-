@@ -7,7 +7,7 @@
 <body>
   <h1>About Me - Pankaj Kalosiya</h1>
   <p>
-    I am Pankaj Kalosiya, a teenager with a keen interest in various fields. I have acquired skills in multiple domains, and some of my learned tasks might be applicable to your work. Let me share the areas in which I excel. However, the charges for each task vary:
+    I am Pankaj Kalosiya,  Teen Age banda Main Apne Abhi Tak Mene Jo bhi Kaam Sikhe Hain Vo Sab Apke liye  Helpfull hain Toh Ek bar muje Moka Jarur De:
   </p>
   <ul>
     <li>Photography</li>
