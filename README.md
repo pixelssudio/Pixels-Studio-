@@ -5,8 +5,9 @@
   <title>Introduction</title>
 </head>
 <body>
-  
-  <h1>About Me - Pankaj Kalosiya</h1>
+  ![pexels-giorgio-de-angelis-1413412](https://github.com/pixelssudio/Pixels-Studio-/assets/123442963/828685e7-ed4f-4132-af8f-d2cf588c1711)
+
+  <h1>About Me - Pankaj Kalosiya</h1> enter 
   <p>
   "Welcome to Pankaj Kalosiya Photography & Data Recovery! With a passion for capturing life's moments and expertise in data recovery, we specialize in preserving memories through stunning photography and reliable data retrieval services. From professional photo editing to captivating video editing, we strive to bring your visions to life. Trust us to safeguard your precious memories and transform your projects into unforgettable creations."   :
   </p>
